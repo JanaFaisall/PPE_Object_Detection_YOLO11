@@ -138,7 +138,7 @@ The losses generally decreased during training, while Precision, Recall, and mAP
 
 The normalized confusion matrix helped reveal which classes were detected correctly and which classes were frequently missed as background.
 
-![Normalized Confusion Matrix](README_IMAGES/confusion.png)
+![Normalized Confusion Matrix](README_IMAGES/confusion-matrix.png)
 
 ---
 
