@@ -197,7 +197,7 @@ pip install -U ultralytics
 Upload the notebook to Google Colab:
 
 ```text
-02_Object_Detection_YOLO_STUDENT_Jana.ipynb
+PPE_Object_Detection_YOLO11.ipynb
 ```
 
 ### Step 3: Prepare the dataset
